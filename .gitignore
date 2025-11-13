@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+future_ml_env/
+env/
+venv/
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore large binary files
+*.dll
+*.so
+*.pyd
